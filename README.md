@@ -14,6 +14,15 @@ A student types a question (for example *"Explain Object-Oriented Programming wi
 example"*). The app inserts the question into a LangChain **prompt template**, sends it to
 **Gemini**, and shows the AI-generated answer in a chat window. Answers are generated live by
 the model – nothing is hard-coded.
+## 🔗 GitHub Repository
+
+The complete source code of this project is available on GitHub.
+
+**Repository Link:** [AI_ChatBot – GitHub](https://github.com/Vedantvijayvargiya-06/AI_ChatBot)
+
+**Developer:** Vedant Vijay
+
+**Project:** Mini Project 8 – AI Question-Answering Chatbot using LangChain
 
 ## 2. Objectives
 
@@ -196,5 +205,7 @@ Total automated: **32 passed**.
 - Voice input and multi-language support
 
 ---
+
+
 
 *Made with Python, LangChain and Google Gemini.*
