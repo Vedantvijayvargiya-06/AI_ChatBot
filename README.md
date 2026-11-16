@@ -20,6 +20,12 @@ The complete source code of this project is available on GitHub.
 
 **Repository Link:** [AI_ChatBot – GitHub](https://github.com/Vedantvijayvargiya-06/AI_ChatBot)
 
+## 🚀 Live Demo
+
+Try Smart Study Buddy here:
+
+[🌐 Launch Live Application](https://dumbchatbot.streamlit.app/)
+
 **Developer:** Vedant Vijay
 
 **Project:** Mini Project 8 – AI Question-Answering Chatbot using LangChain
